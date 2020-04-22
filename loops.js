@@ -29,9 +29,9 @@ const instructors = [
   }
   
   
-  const init = () => {
-    instructorLoop();
-  }
+  // const init = () => {
+  //   instructorLoop();
+  // }
   
-  init();
+  // init();
  
