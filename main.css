@@ -2,3 +2,20 @@ body {
   background-color: tomato;
   font-family: monospace;
 }
+
+#assignment-cards {
+  display: flex;
+  flex-wrap: wrap;
+
+
+}
+
+.card {
+  margin: 5px;
+}
+
+.img {
+  max-width:100%;
+  height:auto;
+}
+
